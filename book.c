@@ -7,6 +7,13 @@
 
 // 全局变量
 
+
+
+
+
+
+
+
 // 弹出提示框
 GtkWidget *dialog_tuifang_queding;
 // 登录or注册输入框
